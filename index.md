@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Stehanie's Ginger Snap Shots
 
 You can use the [editor on GitHub](https://github.com/crazywerdo111tr/stephanierobinson/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
